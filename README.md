@@ -3,17 +3,17 @@
 #####This is created by my good friend [Rhadow](https://github.com/Rhadow) as I took the extra step to make it to yeoman (also some clean up) : [Original link](https://github.com/Rhadow/react-webpack-boilerplate)
 <br/>
 ## Getting Started
-### Install Yeoman
+### 1. Install Yeoman
 ```
 $ npm install -g yo
 ```
 
-### 1. Install Generators
+### 2. Install Generators
 ```
 $ npm install -g generator-react-webpack-boilerplate
 ```
 
-### 2. Generating Project
+### 3. Generating Project
 
 ```
 $ yo react-webpack-boilerplate
